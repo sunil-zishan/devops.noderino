@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/szishan/Documents/Projects/IronHack/Week 6/Day 4/sonar-cube/devops.noderino/tests/sum.test.js">
+    <testCase name="adds 1 + 2 to equal 3" duration="1"/>
+  </file>
+</testExecutions>
